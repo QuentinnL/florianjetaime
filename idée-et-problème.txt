@@ -1,0 +1,9 @@
+Bug :
+-Corriger le bug des cœurs qui spawn au mauvaise endroit pendant une frame**
+-Bug des photo qui sont collé (à des moments)
+-Améliorer la hitbox des photo
+
+Idée :
+-Playlist composé de musique aléatoire**
+-Danse
+-Morpion caché
